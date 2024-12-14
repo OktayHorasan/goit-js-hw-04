@@ -1,3 +1,5 @@
+console.log("Task 1");
+
 function isEnoughCapacity(products, containerSize) {
     const productValues = Object.values(products);
     

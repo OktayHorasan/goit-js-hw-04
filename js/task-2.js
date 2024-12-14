@@ -1,3 +1,5 @@
+console.log("Task 2");
+
 function calcAverageCalories(days) {
   let totalCalories = 0;
 
