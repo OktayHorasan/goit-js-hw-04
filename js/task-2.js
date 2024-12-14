@@ -1,4 +1,4 @@
-console.log("Task 2");
+console.log("%cTask 2", "color: #12ff00; font-weight: bold;");
 
 function calcAverageCalories(days) {
   let totalCalories = 0;

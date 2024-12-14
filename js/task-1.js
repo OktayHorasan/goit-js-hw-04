@@ -1,4 +1,4 @@
-console.log("Task 1");
+console.log("%cTask 1", "color: #12ff00; font-weight: bold;");
 
 function isEnoughCapacity(products, containerSize) {
     const productValues = Object.values(products);
